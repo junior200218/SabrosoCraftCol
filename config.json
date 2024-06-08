@@ -1,8 +1,8 @@
 {
   "client": {
-    "host": "SabrosoCraftCol.aternos.me",
-    "port": "49776",
-    "username": "Dalia"
+    "host": "SabrosoCraftCol2.aternos.me",
+    "port": "47312",
+    "username": "JC"
   },
   "logLevel": ["error", "log", "debug"],
   "action": {
